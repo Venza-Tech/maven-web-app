@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.10-RELEASE</version>
+	<version>0.0.11-RELEASE</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.183.24.153:8081/repository/BOA-java-web-app-Freestyle-SNAPSHOT/</url>
+	      <url>http://99.79.53.67:8081/repository/BOA-java-web-app-Freestyle-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.183.24.153:8081/repository/BOA-java-web-app-Freestyle-SNAPSHOT/</url>
+	      <url>http://99.79.53.67:8081/repository/BOA-java-web-app-Freestyle-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
